@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @osbale
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning reactjs
+- 📫 How to reach me https://osbale.com
