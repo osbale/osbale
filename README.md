@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @osbale
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning ReactJS, C#, .NET
 - 📫 How to reach me https://osbale.com
